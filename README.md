@@ -7,7 +7,6 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
 ___
 
 # Analysis
-![Table 1]
 (https://github.com/sincekara/Excel_Starterbook/blob/master/Images/Table-1.PNG)
 * Using conditional formatting, each cell in the state column was filled with a different color, depending on whether the associated campaign was "successful," "failed," "cancelled," or is currently "live".
 
